@@ -38,7 +38,7 @@ Vt[k]    = OCV(SoC[k]) - V1[k] - R0 * i[k]
 
 ## Como executar
 
-1. Abra a pasta do repositório no MATLAB (testado no R2023b).
+1. Abra a pasta do repositório no MATLAB (testado no R2025b).
 2. No Command Window, rode `main`. O EKF leva alguns minutos (2,7 milhões de amostras por cenário).
 3. Depois, rode `figuras_artigo`.
 
