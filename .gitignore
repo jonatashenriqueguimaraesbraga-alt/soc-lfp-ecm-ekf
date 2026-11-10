@@ -1,0 +1,7 @@
+*.mat
+*.asv
+*.mp4
+resultados/
+resultados ekf/
+__pycache__/
+.ipynb_checkpoints/
